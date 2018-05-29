@@ -2,7 +2,6 @@
 
 load data
 
-visualise
 
 # wow interesting
 
