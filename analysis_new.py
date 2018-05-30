@@ -2,6 +2,6 @@
 
 load data.csv
 
-crazy-model 22.4
+crazy-model NEW-MODEL
 
-output results # still some bugs
+output results
